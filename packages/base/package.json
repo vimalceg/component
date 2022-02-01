@@ -1,9 +1,9 @@
 {
   "name": "@zdesk/base",
-  "version": "0.0.2-alpha.0",
+  "version": "0.0.2-alpha.0+4eed832",
   "description": "",
   "main": "es/index.js",
-  "private":false,
+  "private": false,
   "scripts": {
     "build": "react-cli build:component:es",
     "docs": "react-cli docs",
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zdesk/hooks": "^0.0.2-alpha.0"
+    "@zdesk/hooks": "^0.0.2-alpha.0+4eed832"
   },
-  "gitHead": "1e18cbfbb9dee345efd5b5082c546e682e3d52fc"
+  "gitHead": "4eed8323e8ddb831b2f0185a2569ecea2a8a4332"
 }
