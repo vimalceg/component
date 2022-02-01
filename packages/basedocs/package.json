@@ -1,6 +1,6 @@
 {
   "name": "@zdesk/basedocs",
-  "version": "0.0.2-alpha.0+4eed832",
+  "version": "0.0.2-alpha.1+fd455c2",
   "description": "",
   "main": "index.js",
   "private": false,
@@ -19,5 +19,5 @@
     "@storybook/react": "^6.4.14",
     "babel-loader": "^8.2.3"
   },
-  "gitHead": "4eed8323e8ddb831b2f0185a2569ecea2a8a4332"
+  "gitHead": "fd455c2d770b85b461005bd2c28b9be3277e5960"
 }
