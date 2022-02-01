@@ -1,6 +1,6 @@
 {
-  "name": "@desk/hooks",
-  "version": "0.0.1-alpha.0",
+  "name": "@zdesk/hooks",
+  "version": "0.0.1",
   "description": "",
   "main": "es/index.js",
   "scripts": {

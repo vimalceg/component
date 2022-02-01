@@ -1,6 +1,6 @@
 {
-  "name": "@desk/dot",
-  "version": "0.0.1-alpha.0",
+  "name": "@zdesk/dot",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {

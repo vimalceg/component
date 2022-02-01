@@ -1,6 +1,6 @@
 {
-  "name": "basedocs",
-  "version": "0.0.1-alpha.0",
+  "name": "@zdesk/basedocs",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
