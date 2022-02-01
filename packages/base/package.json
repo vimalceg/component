@@ -1,0 +1,16 @@
+{
+  "name": "@desk/base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es/index.js",
+  "scripts": {
+    "build": "react-cli build:component:es",
+    "docs": "react-cli docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@desk/hooks": "1.0.0"
+  }
+}

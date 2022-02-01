@@ -1,0 +1,12 @@
+{
+  "name": "@desk/hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es/index.js",
+  "scripts": {
+    "build": "react-cli build:component:es",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,4 @@
+export default {
+  "INCREMENT": "@COUNTER/INCREMENT",
+  "DECREMENT": "@COUNTER/DECREMENT"
+};
