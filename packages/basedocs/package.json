@@ -1,9 +1,12 @@
 {
   "name": "@zdesk/basedocs",
-  "version": "0.0.2-alpha.1+fd455c2",
+  "version": "0.0.2-alpha.2+ffe2729",
   "description": "",
   "main": "index.js",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
@@ -19,5 +22,5 @@
     "@storybook/react": "^6.4.14",
     "babel-loader": "^8.2.3"
   },
-  "gitHead": "fd455c2d770b85b461005bd2c28b9be3277e5960"
+  "gitHead": "ffe272909cb639cbf5de0d545329e58ac61f0dd1"
 }
