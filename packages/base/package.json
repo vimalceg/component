@@ -1,6 +1,6 @@
 {
   "name": "@zdesk/base",
-  "version": "0.0.1",
+  "version": "0.0.2-alpha.0",
   "description": "",
   "main": "es/index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zdesk/hooks": "^0.0.1"
+    "@zdesk/hooks": "^0.0.2-alpha.0"
   }
 }
