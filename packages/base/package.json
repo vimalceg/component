@@ -3,6 +3,7 @@
   "version": "0.0.2-alpha.0",
   "description": "",
   "main": "es/index.js",
+  "private":false,
   "scripts": {
     "build": "react-cli build:component:es",
     "docs": "react-cli docs",
@@ -12,5 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "@zdesk/hooks": "^0.0.2-alpha.0"
-  }
+  },
+  "gitHead": "1e18cbfbb9dee345efd5b5082c546e682e3d52fc"
 }
