@@ -1,4 +1,5 @@
 export default {
+    "RESET": "@COUNTER/RESET",
     "INCREMENT": "@COUNTER/INCREMENT",
     "DECREMENT": "@COUNTER/DECREMENT"
 }

@@ -1,12 +1,15 @@
 import React from 'react';
-import { useCounter } from '@desk/hooks';
-export default function Counter() {
-    let { count, handleIncrement, handleDecrement } = useCounter({ count: 0 });
+import { useCounter } from '@zdesk/hooks';
+import propTypes from './propTypes';
+export default function Counter(props) {
+
+    let { count, handleIncrement, handleDecrement } = useCounter(props);
     return <div>
         <span onClick={handleDecrement}>Decrement</span>
         <br />
-        <span>{count}</span>
+        <span data-testid="counter">{count}</span>
         <br />
         <span onClick={handleIncrement}>Increment</span>
     </div>
-} 
+}
+Counter.propTypes = propTypes;

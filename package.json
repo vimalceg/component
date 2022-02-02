@@ -12,7 +12,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@zohodesk/react-cli": "^0.0.1-beta.162",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/react-hooks": "^7.0.2",
+    "@testing-library/user-event": "^13.0.10",
+    "@zohodesk/react-cli": "0.0.1-beta.162",
     "concurrently": "^7.0.0",
     "lerna": "^4.0.0"
   }
