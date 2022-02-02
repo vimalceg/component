@@ -1,6 +1,6 @@
 {
   "name": "@zdesk/hooks",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.4",
   "description": "",
   "main": "es/index.js",
   "private": false,
@@ -13,5 +13,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "ffe272909cb639cbf5de0d545329e58ac61f0dd1"
+  "gitHead": "aec5dba553716b075f1dc1a25dd6a43785af0321"
 }

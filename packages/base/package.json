@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zdesk/hooks": "^0.0.4-alpha.0"
+    "@zdesk/hooks": "^0.0.4"
   },
-  "gitHead": "ffe272909cb639cbf5de0d545329e58ac61f0dd1"
+  "gitHead": "aec5dba553716b075f1dc1a25dd6a43785af0321"
 }
