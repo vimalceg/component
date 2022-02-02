@@ -1,0 +1,8 @@
+52 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+53 error Error: Command failed with exit code 128: git tag @zdesk/base@0.0.4 -m @zdesk/base@0.0.4
+53 error fatal: tag '@zdesk/base@0.0.4' already exists
+53 error     at makeError (/Users/vimal-zt58/git/client/node_modules/@lerna/child-process/node_modules/execa/lib/error.js:60:11)
+53 error     at handlePromise (/Users/vimal-zt58/git/client/node_modules/@lerna/child-process/node_modules/execa/index.js:118:26)
+53 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+53 error     at async Promise.all (index 0)
+53 error     at async Promise.all (index 0)
