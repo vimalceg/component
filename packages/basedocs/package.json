@@ -1,6 +1,6 @@
 {
   "name": "@zdesk/basedocs",
-  "version": "0.0.2-alpha.2+ffe2729",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "private": false,
