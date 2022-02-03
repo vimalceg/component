@@ -1,6 +1,6 @@
 {
   "name": "@zdesk/base",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "es/index.js",
   "private": false,
@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zdesk/hooks": "^0.0.6-alpha.0"
+    "@zdesk/hooks": "^0.0.6"
   },
   "gitHead": "aec5dba553716b075f1dc1a25dd6a43785af0321"
 }
